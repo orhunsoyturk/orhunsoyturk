@@ -1,0 +1,33 @@
+Python Lists
+Bazı komutlar değiştirilerek yazılabilir mesela
+Bir listeden bir şey kaldırmak istiyoruz int,float,str gibi gibi
+Bir listemiz olsun ve adı da liste4
+liste4.remove(int,float,str)-
+liste4.pop(0,1,2) Listenin elemanlarının yeri kullanılır
+del liste4[0,1,2,3]
+liste4.clear()== Tüm listeyi siler
+
+
+
+
+Listeleri aynı değer verdiğimiz şeyler gibi toplayabiliyoruz
+Bunun da farklı metodları var
+Direk liste4+liste5= liste6 
+
+
+for x in list4
+   list5.append(x)
+
+extend ile de yapılıyor
+
+
+Tuple ile list farkı tuple ile değişmeyen şeyler yazarken
+Liste elemanları değişebilir
+Aralarındaki en önemli fark []=== LİSTE
+                            ()=== Tuple 
+
+
+İki farklı liste toplamları
+
+
+

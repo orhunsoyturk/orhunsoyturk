@@ -1,0 +1,46 @@
+PYTHON VE NOTLARI 
+LİST
+
+Bazı komutlar değiştirilerek yazılabilir mesela
+Bir listeden bir şey kaldırmak istiyoruz int,float,str gibi gibi
+Bir listemiz olsun ve adı da liste4
+liste4.remove(int,float,str)-
+liste4.pop(0,1,2) Listenin elemanlarının yeri kullanılır
+del liste4[0,1,2,3]
+liste4.clear()== Tüm listeyi siler
+
+
+
+
+Listeleri aynı değer verdiğimiz şeyler gibi toplayabiliyoruz
+Bunun da farklı metodları var
+Direk liste4+liste5= liste6 
+
+
+for x in list4
+   list5.append(x)
+
+extend ile de yapılıyor
+
+
+Tuple ile list farkı tuple ile değişmeyen şeyler yazarken
+Liste elemanları değişebilir
+Aralarındaki en önemli fark []=== LİSTE
+                            ()=== Tuple 
+
+
+İki farklı set toplanırken mesela diyelim ki 
+Orhun be giray diye iki tane set olsun 
+
+Orhun.update(giray)
+
+İf else elif önemli olanlar girintiler.
+Dikkatli yazman lazım yoksa basit bir hatadan dolayı çalışmaz.
+İf ile else aynı girinti içinde yazılamaz .
+İf elif farkları if yazdığın şeyleri kısıtlamak veya 
+İf tek satır kod olarak da yazılabilir 
+if elif else w3
+if elif else örneklere bakılacak ne yapılabilir nerelerde kullanılır ne işe yarar bunlarla örnekler yapacaksın 
+Akıllı ve pratik olman gerekiyor bu zamanla olacak yazılım anlamında 
+Eğer sosyal anlamda diyorsan bunun birinci çaresi mutlu olmak ve gözlem yapabilme yeteneği olacaktır o yüzden enerjik olman lazım tamam mı ?
+Merak etme üzülmek veya can sıkmak için çok  kısa yaratıcı ve mutlu yani Eski Orhun gibi ama çok da eski değil 11. 
